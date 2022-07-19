@@ -15,10 +15,6 @@ This is a tutorial to help first-time contributors to participate in a simple an
 ![GitHub stars](https://img.shields.io/github/stars/Syknapse/Contribute-To-This-Project.svg?style=social&label=Star&maxAge=2592000)
 ![GitHub watchers](https://img.shields.io/github/watchers/Syknapse/Contribute-To-This-Project.svg?style=social&label=Watch&maxAge=2592000)
 
-## Translations
-
-This tutorial is also available in [other languages](https://github.com/Syknapse/Contribute-To-This-Project/tree/master/translations) ([ِArabic](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/ARABIC.md), [French](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/FRENCH.md), [German](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/German.md), [Italian](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/ITALIAN.md), [Korean](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/KOREAN.md), [Polish](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/POLISH.md), [Portuguese](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/PORTUGUESE.md), [Serbian](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/SERBIAN.md), [Spanish](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/SPANISH.md), and [Turkish](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/TURKISH.md) currently. Translations are very welcome).
-
 ### Objectives
 
 - Make a contribution to an open source project.
@@ -41,6 +37,10 @@ If you are a new developer and you are wondering if you need to learn Git and Gi
 You are going to contribute a card just like this one to this [project's web page](https://syknapse.github.io/Contribute-To-This-Project/ 'https://syknapse.github.io/Contribute-To-This-Project'). It will include your name, your Twitter handle, a short description, and 3 links to useful resources for web developers that you recommend.
 
 You will make a copy of the card template inside the HTML file and customise it with your own information.
+
+## Translations
+
+This tutorial is also available in [other languages](https://github.com/Syknapse/Contribute-To-This-Project/tree/master/translations) ([ِArabic](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/ARABIC.md), [French](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/FRENCH.md), [German](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/German.md), [Italian](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/ITALIAN.md), [Korean](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/KOREAN.md), [Polish](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/POLISH.md), [Portuguese](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/PORTUGUESE.md), [Serbian](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/SERBIAN.md), [Spanish](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/SPANISH.md), and [Turkish](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/TURKISH.md) currently. Translations are very welcome).
 
 ## Quick Access Index
 
